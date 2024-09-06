@@ -11,3 +11,7 @@ First open new terminal <br>
 1-) <code> cd chat-app </code> <br>
 2-) <code> npm run dev </code> <br>
 
+
+# ChatApp Screenshoot 
+
+![ChatApp](https://github.com/geuvip/vue-chat-app/blob/main/chat-app-vuejs.png)
